@@ -593,7 +593,7 @@ li p {
   outline: none;
   border-width: 2px 0;
   border-style: solid none;
-  border-color: #FDBE33 #000 #D77206;
+  border-color: #3dfd33 #000 #06d748;
   border-radius: 10px;
   background: linear-gradient(red, red) green;
   transition: 0.2s;
@@ -609,5 +609,5 @@ li p {
 /*    padding: .6em 2em;*/
 }
 .button24:active { 
-    background: linear-gradient(#f59500, #f5ae00) #f59500;
+    background: linear-gradient(#0dff00, #00ff51) #00ff51;
     color: black !important; }
